@@ -1,0 +1,8 @@
+tf-keras
+transformers
+datasets
+torch
+torchaudio
+datasets
+soundfile
+librosa
